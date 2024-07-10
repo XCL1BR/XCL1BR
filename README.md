@@ -1,4 +1,6 @@
 <h2 align="left">Hi 👋!I'm Ashwarya, a passionate Frontend Developer and Cybersecurity Enthusiast from India. I enjoy creating interactive and user-friendly web applications, and I'm always eager to learn and explore new technologies.</h2>
+
+
 ###
 
 <div align="center">
@@ -36,9 +38,11 @@
   <a href="https://www.linkedin.com/in/ashwarya-856265206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  
   <a href="https://tryhackme.com/p/XCL1BR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+  
   <a href="https://dev.to/xcl1br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
