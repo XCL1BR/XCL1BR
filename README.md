@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/ECR7tah-SGUAAAAM/wanna-code-code.gif"  />
 
 ###
 
